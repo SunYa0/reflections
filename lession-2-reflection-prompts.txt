@@ -5,6 +5,8 @@ It will creat an empty .git repository. Then .git can record and track changes m
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging area keeps small changes that logically connected but not big enough to submit a commit. It keeps temporary changes. 
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
